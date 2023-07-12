@@ -57,21 +57,21 @@ ffmpeg notebooks
  
 ----------------------------------------
 - [04.ffprobe、ffplay命令](./ffmpeg/04.ffprobe、ffplay命令.md)
-  - 1. ffprobe
+  - 1 ffprobe
     - a. 显示文件信息
     - b. 显示视频帧数
-  - 2. ffplay
+  - 2 ffplay
  
  
  
 ----------------------------------------
 - [05.推流](./ffmpeg/05.推流.md)
-  - 1. 查看设备
-  - 2. ffmpeg推流
+  - 1 查看设备
+  - 2 ffmpeg推流
     - a. 本地视频的推流
     - b. 摄像头推流
     - c. 麦克风推流
     - d. 摄像头&麦克风推流
-  - 2. srs 服务端
+  - 2 srs 服务端
  
  
