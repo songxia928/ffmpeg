@@ -87,7 +87,7 @@ def process(folder, save_path):
 
 
     lines = [ '# ffmpeg',
-              'ffmpeg notebooks',
+              'ffmpeg notebook',
               ' ',
               '**目录：**']
 
